@@ -1,8 +1,13 @@
+<div>
+##################To Run The App #############
+</div>
 <div>npm install</div>
 <div>npm start</div>
 <div>
-############################## tools used #############
+##################tools used #############
 </div>
-1- TypeScript
-2- Reactjs
-3- Devextreme (Datagrid - buttons - Popup)
+<ul>
+  <li>TypeScript</li>
+  <li>Reactjs</li>
+  <li>Devextreme (Datagrid - buttons - Popup)</li>
+</ul>
