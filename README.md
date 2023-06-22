@@ -1,10 +1,11 @@
 <div>
-##################To Run The App #############
+################## To Run The App #############
 </div>
-<div>npm install</div>
-<div>npm start</div>
-<div>
-##################tools used #############
+<ul>
+<li>npm install</li>
+<li>npm start</li>
+</ul>
+################## Tools used #############
 </div>
 <ul>
   <li>TypeScript</li>
