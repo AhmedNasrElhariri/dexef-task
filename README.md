@@ -1,6 +1,6 @@
-npm install
-npm start
-<div></div>
+<div>npm install</div>
+<div>npm start</div>
+
 ############################## tools used #############
 1- TypeScript
 2- Reactjs
