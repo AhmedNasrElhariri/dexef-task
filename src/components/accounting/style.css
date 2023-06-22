@@ -1,0 +1,61 @@
+.header-input-container{
+    display: flex;
+    margin: 5% 5% 0px 5%;
+    @media (max-width: 600px) {
+        display: block;
+     }
+}
+.label{
+    margin-bottom: 10px;
+    font-weight: 600;
+    color: #000000a6;
+}
+.input-container{
+    margin-right: 20px;
+}
+.data-grid-container{
+    margin: 5% 5% 0px 5%;
+}
+.totals-container{
+    float: right;
+    display: flex;
+    margin: 20px 5% 0px 5%;
+
+}
+.sub-total-container{
+    display: flex;
+    margin-left: 20px;
+}
+.sub-total-header{
+    margin-right: 20px;
+    font-weight: 600;
+    color:#000000a6;
+    margin-top: 28px;
+    @media (max-width: 600px) {
+        margin-right: 5px;
+     }
+}
+.sub-total-value{
+    border-bottom: 1px solid #000000a6;
+    padding: 10px;
+    color:#00000040;
+}
+.footer-container{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    background-color:rgb(235 232 232 / 62%);
+    height: 100px;
+    @media (max-width: 600px) {
+       display: flex;
+    }
+}
+.footer-btn{
+    margin-right: 50px;
+}
+.btns-container{
+    margin:30px 0px 0px 100px;
+    @media (max-width: 600px) {
+        margin:30px 0px 0px 20px;
+    }
+}
